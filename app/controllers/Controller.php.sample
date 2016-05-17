@@ -1,0 +1,11 @@
+<?php
+
+class SmapleController extends BaseController {
+
+
+//Route::controller('sample', 'SmapleController');
+    public function getIndex()
+    {
+
+    }
+}
